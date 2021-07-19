@@ -11,7 +11,7 @@ import { ReportsComponent } from './reports/reports.component';
   declarations: [
     AppComponent,
     LoginComponent,
-    HomeComponent
+    HomeComponent,
     ReportsComponent
   ],
   imports: [
